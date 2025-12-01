@@ -1,6 +1,6 @@
 ::rules
-Le chatbot doit aider l'élève à identifier des mots-clés dans un document.
-Les boutons déclenchent une navigation entre les sections définies dans ::state.
+Le chatbot doit aider l'élève à identifier des mots-clés.  
+Les liens [texte](NomDeLaSection) renvoient vers les blocs définis dans ::state.
 ::
 
 ::bot
@@ -48,12 +48,12 @@ Voici des conseils pour repérer les mots-clés :
 # IndicesDetail
 Voici sept indices, chacun correspond à un mot-clé attendu :
 
-1. Êtres supérieurs vénérés au pluriel.
-2. Élément qui représente une idée ou une croyance.
-3. Être supérieur unique (majuscule).
-4. Pratiques religieuses / cérémonies.
-5. Texte ou acte d’écrire, lié au religieux.
-6. Appellation d’une divinité ou figure religieuse.
+1. Êtres supérieurs vénérés au pluriel.  
+2. Élément qui représente une idée ou une croyance.  
+3. Être supérieur unique (majuscule).  
+4. Pratiques religieuses / cérémonies.  
+5. Texte ou acte d’écrire, lié au religieux.  
+6. Appellation d’une divinité ou figure religieuse.  
 7. Lieux où les croyants se réunissent.
 
 - [Je veux la correction](Correction)
